@@ -82,7 +82,9 @@
       "volume": "",
       "last_updated": "1704083608",
       "groups": {
-        "https://imgur.com/a/JVbpvCD": "/proxy/api/imgur/chapter/JVbpvCD"
+        "https://imgur.com/a/JVbpvCD": [
+          "https://drive.google.com/uc?export=view&id=11eNU8gHQ7lRLsL8rqMa8ZPkv66GbZT-S"
+        ]
       }
     },
     "11": {
